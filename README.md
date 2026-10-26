@@ -16,11 +16,11 @@ Puedes ver mi portafolio en [davidgv-ux.github.io/david-galvis-portfolio](https:
 |---|---|---|
 | **[fYN](https://d133uvy2su9xyr.cloudfront.net)** | App de finanzas personales con IA por WhatsApp, web y móvil. En producción. | Angular, Node.js, AWS Lambda, Supabase, Groq |
 | **[ReservaYa](https://github.com/DavidGV-ux/Front-ReservaYa)** | SaaS de reservas multi-tenant para barberías, spas y consultorios. Proyecto académico con 4 roles, OIDC e i18n. | Angular 21 SSR, Keycloak, MongoDB, AWS |
-| **[Portafolio 3D](https://portafolio-murex-three-99.vercel.app)** | Portafolio 3D con fallback 2D y carga diferida. Reduje el JS inicial un 83%. | Three.js, GSAP, Vite, TypeScript |
+| **[Portafolio 3D](https://portafolio-murex-three-99.vercel.app)** | Portafolio 3D con fallback 2D y carga diferida. Reduje el JS inicial en un 83%. | Three.js, GSAP, Vite, TypeScript |
 | **Voxy** | Coach de inglés por voz con Whisper, TTS y análisis de pronunciación. Repositorio privado. | Angular, Whisper, Groq, serverless |
 | **[Vyon](https://github.com/DavidGV-ux/Vyon)** | Mockup navegable de gestión de proyectos estilo ClickUp. | React, Vite, TypeScript, Supabase |
 
-El código de fYN y Voxy es privado. Puedo mostrarlo y dar una demo en una entrevista.
+El código de fYN y Voxy es privado. Puedo compartirlo y mostrar una demo en una entrevista.
 
 ## Stack
 
@@ -32,14 +32,14 @@ El código de fYN y Voxy es privado. Puedo mostrarlo y dar una demo en una entre
 ## Algunos datos
 
 - fYN funciona en 3 canales: WhatsApp, web y móvil.
-- Tiene 10 automatizaciones programadas y más de 100 verificaciones automatizadas.
-- Las respuestas tardan alrededor de 3–4 segundos.
+- fYN tiene 10 automatizaciones programadas y más de 100 verificaciones automatizadas.
+- Las respuestas de fYN tardan alrededor de 3–4 segundos.
 - En el portafolio 3D, el JS inicial pasó de 716 kB a 121 kB (-83%).
 - Promedio académico: 4.1/5.0; último semestre: 4.5/5.0.
 
 ## Contacto
 
-- Portafolio: https://davidgv-ux.github.io/david-galvis-portfolio/
-- LinkedIn: https://www.linkedin.com/in/stiventh-galvis-2b2843413
-- Email: davidstiventhgalvis@gmail.com
-- GitHub: https://github.com/DavidGV-ux
+- [Portafolio](https://davidgv-ux.github.io/david-galvis-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/stiventh-galvis-2b2843413)
+- [Email](mailto:davidstiventhgalvis@gmail.com)
+- [GitHub](https://github.com/DavidGV-ux)
