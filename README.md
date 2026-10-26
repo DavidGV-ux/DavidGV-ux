@@ -17,7 +17,7 @@ Puedes ver mi portafolio en [davidgv-ux.github.io/david-galvis-portfolio](https:
 | **[fYN](https://d133uvy2su9xyr.cloudfront.net)** | App de finanzas personales con IA por WhatsApp, web y móvil. En producción. | Angular, Node.js, AWS Lambda, Supabase, Groq |
 | **[ReservaYa](https://github.com/DavidGV-ux/Front-ReservaYa)** | SaaS de reservas multi-tenant para barberías, spas y consultorios. Proyecto académico con 4 roles, OIDC e i18n. | Angular 21 SSR, Keycloak, MongoDB, AWS |
 | **[Portafolio 3D](https://portafolio-murex-three-99.vercel.app)** | Portafolio 3D con fallback 2D y carga diferida. Reduje el JS inicial en un 83%. | Three.js, GSAP, Vite, TypeScript |
-| **Voxy** | Coach de inglés por voz con Whisper, TTS y análisis de pronunciación. Repositorio privado. | Angular, Whisper, Groq, serverless |
+| **Voxy** | Coach de inglés por voz con Whisper, TTS y análisis de pronunciación. Proyecto privado. | Angular, Whisper, Groq, serverless |
 | **[Vyon](https://github.com/DavidGV-ux/Vyon)** | Mockup navegable de gestión de proyectos estilo ClickUp. | React, Vite, TypeScript, Supabase |
 
 El código de fYN y Voxy es privado. Puedo compartirlo y mostrar una demo en una entrevista.
